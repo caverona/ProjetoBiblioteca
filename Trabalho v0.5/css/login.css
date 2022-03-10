@@ -1,0 +1,59 @@
+
+h1{
+ color: white;
+}
+body{
+    background-color: #36393F;
+    color: white;
+}
+.form_login{
+    color: white;
+    width: 95%;
+    padding: 5px;
+    border: 0;
+    background: transparent;
+    outline:0;
+    border-bottom: 1px solid;
+}
+input::placeholder{
+    color:white;
+}
+.div{
+    background-color: #2F3136;
+    margin-top: 5%;
+    border-radius: 10px;
+    width: 600px;
+    left: 100px;
+}
+.login_button{
+    border-radius: 10px;
+    padding: 10px;
+    border:none;
+    cursor: pointer;
+}
+.login_button:hover{
+    cursor: pointer;
+    background-color: #36393F;
+    color:white;
+}
+.criar_conta{
+    margin-bottom: 2%;
+    border-radius: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    border:none; 
+}
+.criar_conta:hover{
+    cursor: pointer;
+    background-color: #36393F;
+    color:white;
+}
+.select{
+    border-radius: 10px;
+    padding: 10px;
+    border:none;
+    cursor: pointer;
+}
+.select:hover{
+    cursor: pointer;
+}
